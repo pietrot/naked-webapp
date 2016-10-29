@@ -1,2 +1,2 @@
 # naked-webapp
-Simple webapp skeleton
+Simple webapp skeleton (regardless the coding language).
